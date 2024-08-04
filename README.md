@@ -1,2 +1,2 @@
 # Python-projects
-coleção de projetos diversos em Python focados em aprendizado de máquina e análise de dados.
+O repositório é uma coleção de projetos diversos em Python focados em aprendizado de máquina e análise de dados. Inclui implementações de redes neurais, modelos de classificação e regressão, análise de clusters, detecção de fraudes e mais, cobrindo tanto projetos simples quanto avançados. Esses projetos demonstram o uso de várias técnicas e algoritmos de machine learning aplicados a diferentes conjuntos de dados e problemas.
